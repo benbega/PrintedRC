@@ -6,3 +6,9 @@ Though it originally starting a simple build of the [Tarmo5](https://www.printab
 
 ![Car_Front](https://github.com/user-attachments/assets/7052536b-5afd-4bb2-a37e-329f39a816cf)
 
+# Background 
+
+The Tarmo5 is a great project, and the most popular 3D printed RC car for a reason. However, it realistically tops out at about 35 mph, and has some stability at higher speeds. The wheelbase is fairly short, and the default motor is a little smaller than I'd prefer. The Tarmo5 was a great starting point for my needs, but overall needed some significant changes if I wanted to hit some higher speeds. My original goal when starting this project was to build an RC car that could hit a top speed of 100 mph in a straight line, something I have not seen any 3D printed projects do.
+
+# Overall Design
+
